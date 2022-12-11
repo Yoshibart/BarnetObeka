@@ -1,2 +1,2 @@
 # BarnetObeka
-Creation of Auction System through multithreading and LOckin
+Creation of Auction System through multithreading and Locking
